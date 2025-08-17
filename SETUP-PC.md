@@ -1,20 +1,5 @@
 # LLM Engineering - Master AI and LLMs
 
-## Setup instructions for Windows
-
-Welcome, PC people!
-
-I should confess up-front: setting up a powerful environment to work at the forefront of AI is not as simple as I'd like. For most people these instructions will go great; but in some cases, for whatever reason, you'll hit a problem. Please don't hesitate to reach out - I am here to get you up and running quickly. There's nothing worse than feeling _stuck_. Message me, email me or LinkedIn message me and I will unstick you quickly!
-
-Email: ed@edwarddonner.com  
-LinkedIn: https://www.linkedin.com/in/eddonner/  
-
-I use a platform called Anaconda to set up your environment. It's a powerful tool that builds a complete science environment. Anaconda ensures that you're working with the right version of Python and all your packages are compatible with mine, even if our systems are completely different. It takes more time to set up, and it uses more hard drive space (5+ GB) but it's very reliable once its working.
-
-Having said that: if you have any problems with Anaconda, I've provided an alternative approach. It's faster and simpler and should have you running quickly, with less of a guarantee around compatibility.
-
-If you are relatively new to using the Command Prompt, here is an excellent [guide](https://chatgpt.com/share/67b0acea-ba38-8012-9c34-7a2541052665) with instructions and exercises. I'd suggest you work through this first to build some confidence.
-
 ## HEAD'S UP - "GOTCHA" ISSUES ON A PC: The following 4 Windows issues will need your attention, particularly #3 and #4
 
 Please do take a look at these issues. Issue #3 (Windows 260 character limit) will cause an issue with an "Archive Error" installing pytorch if unaddressed. Issue #4 will cause an installation issue.
@@ -199,4 +184,4 @@ For those new to Jupyter Lab / Jupyter Notebook, it's a delightful Data Science 
 
 If you have any problems, I've included a notebook in week1 called [troubleshooting.ipynb](week1/troubleshooting.ipynb) to figure it out.
 
-Please do message me or email me at ed@edwarddonner.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
+Please do message me or email me at hariprohandler@gmail.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.

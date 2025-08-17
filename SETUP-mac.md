@@ -1,26 +1,5 @@
 # LLM Engineering - Master AI and LLMs
 
-## Setup instructions for Mac
-
-Welcome, Mac people!
-
-I should confess up-front: setting up a powerful environment to work at the forefront of AI is not as simple as I'd like. For most people these instructions will go great; but in some cases, for whatever reason, you'll hit a problem. Please don't hesitate to reach out - I am here to get you up and running quickly. There's nothing worse than feeling _stuck_. Message me, email me or LinkedIn message me and I will unstick you quickly!
-
-Email: ed@edwarddonner.com  
-LinkedIn: https://www.linkedin.com/in/eddonner/  
-
-I use a platform called Anaconda to set up your environment. It's a powerful tool that builds a complete science environment. Anaconda ensures that you're working with the right version of Python and all your packages are compatible with mine, even if our systems are completely different. It takes more time to set up, and it uses more hard drive space (5+ GB) but it's very reliable once its working.
-
-Having said that: if you have any problems with Anaconda, I've provided an alternative approach. It's faster and simpler and should have you running quickly, with less of a guarantee around compatibility.
-
-### Before we begin
-
-If you're less familiar with using the Terminal, please review this excellent [guide](https://chatgpt.com/canvas/shared/67b0b10c93a081918210723867525d2b) for some details and exercises.
-
-If you're new to developing on your Mac, you may need to install XCode developer tools. Here are [instructions](https://chatgpt.com/share/67b0b8d7-8eec-8012-9a37-6973b9db11f5).
-
-One "gotcha" to keep in mind: if you run anti-virus software, VPN or a Firewall, it might interfere with installations or network access. Please temporarily disable if you have problems.
-
 ### Part 1: Clone the Repo
 
 This gets you a local copy of the code on your box.
@@ -193,4 +172,4 @@ For those new to Jupyter Lab / Jupyter Notebook, it's a delightful Data Science 
 
 If you have any problems, I've included a notebook in week1 called [troubleshooting.ipynb](week1/troubleshooting.ipynb) to figure it out.
 
-Please do message me or email me at ed@edwarddonner.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
+Please do message me or email me at hariprohandler@gmail.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.

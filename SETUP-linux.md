@@ -1,20 +1,5 @@
 # LLM Engineering - Master AI and LLMs
 
-## Setup instructions for Linux
-
-Welcome, Linux people!
-
-I should reveal that I had ChatGPT make this document based on the Mac instructions, but then I went through and checked and tweaked some sections. If any of these instructions don't work for your distro, please do reach out and let me know - we'll figure it out, then I'll update the instructions for the future.
-
-___
-
-Setting up a powerful environment to work at the forefront of AI requires some effort, but these instructions should guide you smoothly. If you encounter any issues, don't hesitate to reach out to me. I'm here to ensure you get set up without hassle.
-
-Email: ed@edwarddonner.com  
-LinkedIn: https://www.linkedin.com/in/eddonner/  
-
-For this setup, we'll use Anaconda to create a reliable environment for your AI work. Alternatively, I've provided a lighter option if you prefer to avoid Anaconda. Let's get started!
-
 ### Part 1: Clone the Repo
 
 This gets you a local copy of the code on your machine.

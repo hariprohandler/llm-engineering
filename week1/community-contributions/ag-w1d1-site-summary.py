@@ -72,5 +72,5 @@ def display_summary(url):
     display(Markdown(summary))
     print(summary)
 
-url = "https://edwarddonner.com"
+url = "https://google.com"
 display_summary(url)
